@@ -27,3 +27,38 @@
   outline-width: 12px;
   margin-bottom: 50px;
 }
+
+.details {
+  outline-style: dotted;
+  outline-width: 6px;
+  padding: 2%;
+}
+
+.details-heading {
+  padding-top:3%;
+}
+
+.details-sub-heading {
+  padding-top: 3%;
+}
+
+.space-below {
+  padding: 3%;
+}
+
+.wraparound {
+  height: 588px;
+  width: 639px;
+  margin-top: 9%;
+  border: 6px solid black;
+  outline-style: dotted;
+  outline-color: #ff5050;
+  margin-left: 28%;
+  overflow: auto;
+  /*padding: 2%;*/
+  position: relative;
+}
+
+.details-image {
+  padding-bottom: 4%;
+}
