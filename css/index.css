@@ -47,10 +47,13 @@
   font-size: 16px;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
+  position: relative;
+  margin-left: 26%;
+  margin-top:5%;
 }
 
 .tasks-done:hover {
-  background-color: #ff5050; 
+  background-color: #ff5050;
   color: white;
 }
 
