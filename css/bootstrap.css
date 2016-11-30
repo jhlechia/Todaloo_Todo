@@ -4547,7 +4547,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   outline-style: dotted;
 }
 .navbar-default .navbar-brand {
-  color: #777;
+  color: #ff5050;
+  padding-left: 30px;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
