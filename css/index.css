@@ -64,27 +64,32 @@
 }
 
 .details-heading {
-  margin-top:20%;
-  margin-left: 25%;
+  margin-top:15%;
+  text-align: center;
   color: #ff5050;
 }
 
+.task-container {
+  position: relative;
+}
 .space-below {
-  padding: 3%;
+  padding: 5%;
 }
 
 .wraparound {
   height: 100%;
-  width: 100%;
-  width: 49%;
-  margin-left: 25%;
+  /*width: 100%;*/
+  /*width: 49%;*/
+  /*margin-left: 30%;*/
+  text-align: center;
   overflow: auto;
-  padding-top: 4%;
+  padding-top: 2%;
 }
 
 .details-image {
   max-width: 100%;
   height: auto;
+  position: relative;
 }
 
 .about-header {
